@@ -1,5 +1,5 @@
 # javafx-logger
-A Simple Demo to redirect Java Commons Logging logs to Java FX using Slf4j
+## A Simple Demo to redirect Java Commons Logging logs to Java FX GUI on the fly using Slf4j
 
 mvn clean install
 
